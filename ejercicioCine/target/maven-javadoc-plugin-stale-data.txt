@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/damci/OneDrive/Documentos/NetBeansProjects/ejercicioCine/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/damci/OneDrive/Documentos/NetBeansProjects/ejercicioCine/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ejercicioCine 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'ejercicioCine 1.0-SNAPSHOT API'
+com.mycompany.ejerciciocine
+'C:/Users/damci/OneDrive/Documentos/NetBeansProjects/ejercicioCine/src/main/java/com/mycompany/ejerciciocine/EjercicioCine.java'
+'C:/Users/damci/OneDrive/Documentos/NetBeansProjects/ejercicioCine/src/main/java/com/mycompany/ejerciciocine/Pelicula.java'
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\src\main\java = 1669917472000
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\allclasses-index.html = 1670240086712
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\allpackages-index.html = 1670240086715
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\copy.svg = 1670240086747
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\element-list = 1670240086666
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\help-doc.html = 1670240086739
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\index-all.html = 1670240086730
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\index.html = 1670240086734
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\jquery-ui.overrides.css = 1670240086763
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\member-search-index.js = 1670240086719
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\module-search-index.js = 1670240086716
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\overview-tree.html = 1670240086702
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\package-search-index.js = 1670240086716
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\script.js = 1670240086744
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\search-page.js = 1670240086752
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\search.html = 1670240086732
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\search.js = 1670240086750
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\stylesheet.css = 1670240086742
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\tag-search-index.js = 1670240086720
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\ejercicioCine\target\site\apidocs\type-search-index.js = 1670240086718

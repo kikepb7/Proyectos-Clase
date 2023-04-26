@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/damci/OneDrive/Documentos/NetBeansProjects/pregunta2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/damci/OneDrive/Documentos/NetBeansProjects/pregunta2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'pregunta2 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'pregunta2 1.0-SNAPSHOT API'
+com.mycompany.pregunta2
+'C:/Users/damci/OneDrive/Documentos/NetBeansProjects/pregunta2/src/main/java/com/mycompany/pregunta2/Alumno.java'
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\src\main\java = 1670241443135
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\allclasses-index.html = 1670241938850
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\allpackages-index.html = 1670241938853
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\copy.svg = 1670241938894
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\element-list = 1670241938804
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\help-doc.html = 1670241938888
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\index-all.html = 1670241938874
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\index.html = 1670241938882
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\jquery-ui.overrides.css = 1670241938910
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\member-search-index.js = 1670241938858
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\module-search-index.js = 1670241938855
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\overview-tree.html = 1670241938835
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\package-search-index.js = 1670241938856
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\script.js = 1670241938892
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\search-page.js = 1670241938900
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\search.html = 1670241938876
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\search.js = 1670241938896
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\stylesheet.css = 1670241938890
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\tag-search-index.js = 1670241938860
+C:\Users\damci\OneDrive\Documentos\NetBeansProjects\pregunta2\target\site\apidocs\type-search-index.js = 1670241938857
